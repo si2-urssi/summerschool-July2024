@@ -1,4 +1,5 @@
 # Reimbursement Process
 
-Thanks to the Sloan Foundation grant that supports the URSSI Schools on Research Software Engineering, we can reimburse you for your travel expenses (excluding the hotel stay, which should have been directly billed to Oregon State).
+This school is supported by the grant "_Bringing Together Open Science and Research Software_" from the 2023 NASA TOPST solicitation. 
+
 

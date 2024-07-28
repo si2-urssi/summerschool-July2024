@@ -17,28 +17,33 @@ Welcome! This is the repository for the 2024 URSSI Summer School on Research Sof
 
 | Time | Topic  | Instructor |
 |:--|:--|:--|
+| July 29th, 8:30-9am | Room Open, Coffee | |
 | July 29th, 9-9:45am  | [Welcome and introductions](https://kyleniemeyer.github.io/research-software-dev-modules/intro-slides) | Madicken |
 | July 29th, 9:45am-12pm | [Software design](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) [Structuing Python packages](https://docs.google.com/presentation/d/1thjeqGGnx40pnVobCNxgsXxXA14WimmqlH2tPomOpSg/edit?usp=sharing) | Matthew |
 | July 29th, 12-1:00pm | Lunch | |
 | July 29th, 1pm-3pm | [Software design](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) [Structuing Python packages](https://docs.google.com/presentation/d/1thjeqGGnx40pnVobCNxgsXxXA14WimmqlH2tPomOpSg/edit?usp=sharing) | Matthew |
 | July 29th, 3-5pm | Ethos of Open Science | Madicken |
 |--|--|--|
+| July 30th, 8:30-9am | Room Open, Coffee | |
 | July 30th, 9am-12pm | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html) | Danika |
 | July 30th, 12-1pm | Lunch | |
 | July 30th, 1-2:30pm | Work Time | Everybody |
 | July 30th, 2:30-5pm | Open Tools and Resources | Ana |
 |--|--|--|
+| July 31st, 8:30-9am | Room Open, Coffee | |
 | July 31st, 9am-12pm  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/)  | Ana |
 | July 31st, 12-1pm | Lunch | |
 | July 31st, 1-2:30pm | Work Time | Everybody |
 | July 31st, 2:30-5pm | Open Data | Matthew |
 |--|--|--|
+| August 1st, 8:30-9am | Room Open, Coffee | |
 | August 1st, 9am-12pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/), work time | | Madicken
 | August 1st, 12-1pm | Lunch | |
 | August 1st, 1-2:30pm | Work Time | Everybody |
 | August 1st, 2:30-5pm | Open Results | Kyle |
 | August 1st, 6:30 pm | Dinner at [Maize at the Station](https://www.maizemexicangrill.com/the-station) | |
 |--|--|--|
+| August 2nd, 8:30-9am | Room Open, Coffee | |
 | August 2nd, 9am-12pm | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/), [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) | Kyle |
 
 Each morning and afternoon session will be split up with a break, and we'll have lunch organized on-site M-Th.

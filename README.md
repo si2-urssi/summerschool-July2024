@@ -18,7 +18,7 @@ Welcome! This is the repository for the 2024 URSSI Summer School on Research Sof
 | Time | Topic  | Instructor |
 |:--|:--|:--|
 | July 29th, 8:30-9am | Room Open, Coffee | |
-| July 29th, 9-9:45am  | [Welcome and introductions](https://kyleniemeyer.github.io/research-software-dev-modules/intro-slides) | Madicken |
+| July 29th, 9-9:45am  | [Welcome and introductions](https://munkm.github.io/research-software-schools/school-intro.slides.html) | Madicken |
 | July 29th, 9:45am-12pm | [Software design](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) [Structuing Python packages](https://docs.google.com/presentation/d/1thjeqGGnx40pnVobCNxgsXxXA14WimmqlH2tPomOpSg/edit?usp=sharing) | Matthew |
 | July 29th, 12-1:00pm | Lunch | |
 | July 29th, 1pm-3pm | [Software design](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) [Structuing Python packages](https://docs.google.com/presentation/d/1thjeqGGnx40pnVobCNxgsXxXA14WimmqlH2tPomOpSg/edit?usp=sharing) | Matthew |
@@ -37,7 +37,7 @@ Welcome! This is the repository for the 2024 URSSI Summer School on Research Sof
 | July 31st, 2:30-5pm | Open Data | Matthew |
 |--|--|--|
 | August 1st, 8:30-9am | Room Open, Coffee | |
-| August 1st, 9am-12pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/), work time | | Madicken
+| August 1st, 9am-12pm | [Peer code review](https://munkm.github.io/research-software-schools/peer-review.slides.html), work time | | Madicken
 | August 1st, 12-1pm | Lunch | |
 | August 1st, 1-2:30pm | Work Time | Everybody |
 | August 1st, 2:30-5pm | Open Results | Kyle |

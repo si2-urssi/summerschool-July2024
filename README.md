@@ -3,7 +3,7 @@
 
 ## Discussion and notes
 
-[HackMD for notes/discussion](https://hackmd.io/@kyleniemeyer/rkyebVQ8A/edit)
+[HackMD for notes/discussion](https://hackmd.io/@M0eajM-mS9CDKKt8Rq--0g/B1cjGQVFC)
 
 [Zulip chat room](https://urssi-softwareschool.zulipchat.com)
 

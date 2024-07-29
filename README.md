@@ -37,7 +37,7 @@ Welcome! This is the repository for the 2024 URSSI Summer School on Research Sof
 | July 31st, 2:30-5pm | Open Data | Matthew |
 |--|--|--|
 | August 1st, 8:30-9am | Room Open, Coffee | |
-| August 1st, 9am-12pm | [Peer code review](https://munkm.github.io/research-software-schools/peer-review.slides.html), work time | | Madicken
+| August 1st, 9am-12pm | [Peer code review](https://munkm.github.io/research-software-schools/peer-review.slides.html), work time | Madicken |
 | August 1st, 12-1pm | Lunch | |
 | August 1st, 1-2:30pm | Work Time | Everybody |
 | August 1st, 2:30-5pm | Open Results | Kyle |

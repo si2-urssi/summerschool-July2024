@@ -25,7 +25,7 @@ Welcome! This is the repository for the 2024 URSSI Summer School on Research Sof
 | July 29th, 3-5pm | Ethos of Open Science | Madicken |
 |--|--|--|
 | July 30th, 8:30-9am | Room Open, Coffee | |
-| July 30th, 9am-12pm | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html) | Danika |
+| July 30th, 9am-12pm | [Collaboration with Git/GitHub/Workflows](http://web.mit.edu/danikam/www/git-collaboration.slides.html#/1/12) | Danika |
 | July 30th, 12-1pm | Lunch | |
 | July 30th, 1-2:30pm | Work Time | Everybody |
 | July 30th, 2:30-5pm | Open Tools and Resources | Ana |

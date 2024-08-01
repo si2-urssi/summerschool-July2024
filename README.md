@@ -19,7 +19,7 @@ Welcome! This is the repository for the 2024 URSSI Summer School on Research Sof
 |:--|:--|:--|
 | July 29th, 8:30-9am | Room Open, Coffee | |
 | July 29th, 9-9:45am  | [Welcome and introductions](https://munkm.github.io/research-software-schools/school-intro.slides.html) | Madicken |
-| July 29th, 9:45am-12pm | [Software design](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/), [Structuing Python packages](https://docs.google.com/presentation/d/1thjeqGGnx40pnVobCNxgsXxXA14WimmqlH2tPomOpSg/edit?usp=sharing), [Distributing your Science][Distributing your Science] | Matthew |
+| July 29th, 9:45am-12pm | [Software design](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/), [Structuring Python packages](https://docs.google.com/presentation/d/1thjeqGGnx40pnVobCNxgsXxXA14WimmqlH2tPomOpSg/edit?usp=sharing), [Distributing your Science][Distributing your Science] | Matthew |
 | July 29th, 12-1:00pm | Lunch | |
 | July 29th, 1pm-3pm | [Software design](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) , [Structuing Python packages](https://docs.google.com/presentation/d/1thjeqGGnx40pnVobCNxgsXxXA14WimmqlH2tPomOpSg/edit?usp=sharing), [Distributing your Science][Distributing your Science] | Matthew |
 | July 29th, 3-5pm | Ethos of Open Science | Madicken |
